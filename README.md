@@ -9,6 +9,8 @@ Bubble Space Theme (Unofficial) is available at Obisidian's Community Themes Gal
 1. Search for `Bubble Space Theme (Unofficial)`
 1. Install it.
 
+For more info, checkout [wiki](https://github.com/Emrie-Candera/Bubble-Space-Theme/wiki)
+
 ## 🖼️ Screenshots
 
 ![](/screenshot.png)
