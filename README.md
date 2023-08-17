@@ -22,5 +22,4 @@ Bubble Space Theme (Unofficial) is available at Obisidian's Community Themes Gal
 ![](/assets/dark.png)
 
 ## Credits
-
 -   <https://github.com/Emrie-Candera/Bubble-Space-Theme>
